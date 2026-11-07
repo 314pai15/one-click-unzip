@@ -1,0 +1,9 @@
+# Python 编译缓存
+__pycache__/
+*.pyc
+
+# 本地测试文件
+_test_zip/
+
+# WorkBuddy 工作记忆（个人内容，勿公开）
+.workbuddy/
